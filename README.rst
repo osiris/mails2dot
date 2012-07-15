@@ -34,6 +34,6 @@ Big Example
 Small Example
 -------------
 
-.. image:: mails2dot-small.png
+- https://github.com/osiris/mails2dot/blob/master/mails2dot-small.png
 
 
